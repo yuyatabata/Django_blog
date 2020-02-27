@@ -1,10 +1,3 @@
-# Portfolio
-
-## Overview
-個人のポートフォリオサイトです。
-
-## Description
+# Django_blog
 
 
-## TechnologyElement
-Django/HTML/CSS/Javascript/Bootstrap/SQLite/AWSなど
